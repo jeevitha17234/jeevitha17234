@@ -3,17 +3,13 @@
 M.Tech in Civil Engineering (Remote Sensing), Indian Institute of Technology Bombay — CPI 9.74
 GATE (Geomatics Engineering) **AIR 4, 2026**
 
-Seeking a PhD position in **remote sensing / microwave & radar remote sensing**. My work sits at the intersection of SAR/InSAR processing, geospatial ML, and hazard/environmental monitoring.
+My work sits at the intersection of SAR/InSAR processing, geospatial ML, and hazard/environmental monitoring.
 
 ## Research interests
 - SAR/InSAR time-series analysis (deformation, subsidence, target detection)
 - Radar meteorology and reflectivity reconstruction
 - Applied ML/DL for remote sensing (classification, gap-filling, spatiotemporal modeling)
 - Geospatial hazard mapping (flood, erosion, water resources)
-
-## Current work
-**M.Tech Thesis — Radar Reflectivity Reconstruction for Missing Scans** (IIT Bombay, guide: Prof. J. Indu)
-Optical-flow and deep learning (CNN-ConvLSTM, CNN-BiConvLSTM) gap-filling for C-band weather radar; benchmarked across synthetic gaps up to 120 min, CSI 0.89–0.94 at 30–40 dBZ.
 
 ## Featured projects
 
