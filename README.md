@@ -2,9 +2,8 @@
 <p align="center">M.Tech Civil Engineering (Remote Sensing) · Indian Institute of Technology Bombay</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GATE%20(GE)-AIR%204%20%7C%202026-2962FF?style=flat-square" alt="GATE AIR 4, 2026"/>
-  <img src="https://img.shields.io/badge/CPI-9.74%20%2F%2010-2962FF?style=flat-square" alt="CPI 9.74 out of 10"/>
-  <img src="https://img.shields.io/badge/IIT%20Bombay-M.Tech%2C%20Remote%20Sensing-00296B?style=flat-square" alt="IIT Bombay, M.Tech Remote Sensing"/>
+  <img src="https://img.shields.io/badge/GATE%20(GE)-AIR%204%20%7C%202026-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=2962FF" alt="GATE AIR 4, 2026"/>
+  <img src="https://img.shields.io/badge/CPI-9.74%20%2F%2010-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=2962FF" alt="CPI 9.74 out of 10"/>
 </p>
 
 I work at the intersection of **SAR/InSAR processing, geospatial ML, and hazard & environmental monitoring** — building pipelines that turn raw satellite/radar data into usable science.
