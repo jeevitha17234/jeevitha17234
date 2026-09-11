@@ -1,11 +1,14 @@
 <h1 align="center">Hi, I'm Jeevitha 👋</h1>
-<p align="center">M.Tech Civil Engineering (Remote Sensing) · Indian Institute of Technology Bombay · CPI 9.81/10</p>
+<p align="center">M.Tech in <b>Remote Sensing</b> (Civil Engineering) · Indian Institute of Technology Bombay · CPI 9.81/10</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GATE%20(GE)-AIR%204%20%7C%202026-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=2962FF" alt="GATE AIR 4, 2026"/>
+  <img src="https://img.shields.io/badge/Specialization-SAR%20%2F%20InSAR-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=8E44AD" alt="Specialization: SAR / InSAR"/>
 </p>
 
 I work at the intersection of **SAR/InSAR processing, geospatial ML, and hazard & environmental monitoring** — building pipelines that turn raw satellite/radar data into usable science.
+
+> **Why SAR?** Optical sensors need clear skies and daylight — SAR doesn't care. It shoots microwaves at the ground at night, through clouds, through smoke, and reads back a signal precise enough to measure land sinking by a few *millimeters* from 700 km in orbit. I started out classifying land cover with plain optical imagery; the moment I unwrapped my first interferogram and watched the ground move on screen, I was done with anything else. Now I build pipelines to make that phase-unwrapping-to-deformation-map process run without a human babysitting it for days.
 
 ## 🔭 Research interests
 - SAR/InSAR time-series analysis — deformation, subsidence, target detection
