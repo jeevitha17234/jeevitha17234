@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/GATE%20(GE)-AIR%204%20%7C%202026-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=2962FF" alt="GATE AIR 4, 2026"/>
 </p>
 
-I build pipelines that turn raw satellite radar into evidence — of a hillside sinking, a city subsiding, a ship hiding in the noise.
+I build automated pipelines that turn raw Sentinel-1 SAR data into deformation maps and vessel detections.
 
 ## 🔭 Research interests
 - SAR/InSAR time-series analysis — deformation, subsidence, target detection
