@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Jeevitha 👋</h1>
-<p align="center">M.Tech Civil Engineering (Remote Sensing) · Indian Institute of Technology Bombay</p>
+<p align="center">M.Tech Civil Engineering (Remote Sensing) · Indian Institute of Technology Bombay · CPI 9.81/10</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GATE%20(GE)-AIR%204%20%7C%202026-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=2962FF" alt="GATE AIR 4, 2026"/>
-  <img src="https://img.shields.io/badge/CPI-9.74%20%2F%2010-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=2962FF" alt="CPI 9.74 out of 10"/>
 </p>
 
 I work at the intersection of **SAR/InSAR processing, geospatial ML, and hazard & environmental monitoring** — building pipelines that turn raw satellite/radar data into usable science.
