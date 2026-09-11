@@ -8,7 +8,8 @@
 
 I build pipelines that turn raw satellite radar into evidence — of a hillside sinking, a city subsiding, a ship hiding in the noise.
 
-> **Why SAR?** A camera needs sunlight and clear skies. SAR needs neither — it can image the same patch of ground at 2 AM, through a monsoon, and still tell you it moved by a few *millimeters* since last month. I got hooked the day I unwrapped my first interferogram and watched a hillside "breathe" on screen. Everything I've built since is really the same obsession from different angles: [`insar-automation`](https://github.com/jeevitha17234/insar-automation) turns that phase-unwrapping-to-deformation-map process into something that runs unattended instead of babysat for days; [`ship-detection-pipeline`](https://github.com/jeevitha17234/ship-detection-pipeline) pulls vessels out of that same kind of radar noise. Making sense of what radar sees that eyes can't — that's the thread.
+> **Why SAR?** It sees through cloud, darkness, and smoke, and measures ground movement in millimeters from orbit.
+> That's the signal I want to spend a career decoding.
 
 ## 🔭 Research interests
 - SAR/InSAR time-series analysis — deformation, subsidence, target detection
