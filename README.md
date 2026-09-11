@@ -5,13 +5,13 @@
   <img src="https://img.shields.io/badge/GATE%20(GE)-AIR%204%20%7C%202026-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=2962FF" alt="GATE AIR 4, 2026"/>
 </p>
 
-I build automated pipelines that turn raw Sentinel-1 SAR data into deformation maps and vessel detections.
+I build automated pipelines that turn raw satellite radar into insight.
 
 ## 🔭 Research interests
-- SAR/InSAR time-series analysis — deformation, subsidence, target detection
+- SAR/InSAR time-series analysis
 - Radar meteorology and reflectivity reconstruction
-- Applied ML/DL for remote sensing — classification, gap-filling, spatiotemporal modeling
-- Geospatial hazard mapping — flood, erosion, water resources
+- Applied ML/DL for remote sensing
+- Geospatial hazard mapping
 
 ## 🚀 Featured projects
 
