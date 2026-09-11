@@ -2,9 +2,9 @@
 <p align="center">M.Tech Civil Engineering (Remote Sensing) · Indian Institute of Technology Bombay</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GATE%20GE-AIR%204%20(2026)-blue?style=flat-square" alt="GATE AIR 4"/>
-  <img src="https://img.shields.io/badge/CPI-9.74-blue?style=flat-square" alt="CPI 9.74"/>
-  <img src="https://img.shields.io/badge/IIT%20Bombay-M.Tech-navy?style=flat-square" alt="IIT Bombay"/>
+  <img src="https://img.shields.io/badge/GATE%20(GE)-AIR%204%20%7C%202026-2962FF?style=flat-square" alt="GATE AIR 4, 2026"/>
+  <img src="https://img.shields.io/badge/CPI-9.74%20%2F%2010-2962FF?style=flat-square" alt="CPI 9.74 out of 10"/>
+  <img src="https://img.shields.io/badge/IIT%20Bombay-M.Tech%2C%20Remote%20Sensing-00296B?style=flat-square" alt="IIT Bombay, M.Tech Remote Sensing"/>
 </p>
 
 I work at the intersection of **SAR/InSAR processing, geospatial ML, and hazard & environmental monitoring** — building pipelines that turn raw satellite/radar data into usable science.
@@ -33,18 +33,42 @@ I work at the intersection of **SAR/InSAR processing, geospatial ML, and hazard 
 "Analysing the Changing Trends of AOD Using 6S RTE for Chennai City" — 09th International Joint Colloquium on CEMC (2024)
 
 ## 🛠️ Tech stack
+
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL%20%2F%20PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+**Frameworks & libraries**
+<p>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GDAL-1f6f43?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GDAL-1F6F43?style=flat-square"/>
+</p>
+
+**Software & tools**
+<p>
   <img src="https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Google%20Earth%20Engine-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-SNAP-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-ArcGIS-2C7AC3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-ERDAS%20Imagine-6C6C6C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-ENVI-6C6C6C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Google%20Earth%20Engine-34A853?style=flat-square&logo=googleearth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SNAP-E67E22?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-StaMPS-E67E22?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Pix4Dmapper-E67E22?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-WebODM-E67E22?style=flat-square"/>
 </p>
 
 ## 📫 Get in touch
